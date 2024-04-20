@@ -10,6 +10,11 @@
       "StackName": "amplify-checkmate-dev-9bc33",
       "StackId": "arn:aws:cloudformation:us-east-1:211125450654:stack/amplify-checkmate-dev-9bc33/a60f03a0-ff5c-11ee-8a5a-0affed9d0323",
       "AmplifyAppId": "d15nzd4zdyxjnf"
+    },
+    "categories": {
+      "auth": {
+        "checkmatef2fe395e": {}
+      }
     }
   }
 }
