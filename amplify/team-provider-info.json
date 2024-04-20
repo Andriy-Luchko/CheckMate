@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-checkmate-dev-9bc33-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211125450654:role/amplify-checkmate-dev-9bc33-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211125450654:role/amplify-checkmate-dev-9bc33-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-checkmate-dev-9bc33-deployment",
+      "UnauthRoleName": "amplify-checkmate-dev-9bc33-unauthRole",
+      "StackName": "amplify-checkmate-dev-9bc33",
+      "StackId": "arn:aws:cloudformation:us-east-1:211125450654:stack/amplify-checkmate-dev-9bc33/a60f03a0-ff5c-11ee-8a5a-0affed9d0323",
+      "AmplifyAppId": "d15nzd4zdyxjnf"
+    }
+  }
+}
